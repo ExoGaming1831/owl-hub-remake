@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExoGaming1831/owl-hub-remake/main/remake"))();
